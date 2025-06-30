@@ -33,5 +33,5 @@ CurrentFacts is a Python-based backend system that checks the credibility of rea
 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/currentfacts.git
+git clone https://github.com/shivaahir158/currentfacts.git
 cd currentfacts

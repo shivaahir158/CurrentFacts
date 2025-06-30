@@ -1,6 +1,6 @@
 # CurrentFacts – AI-Powered Fact Checker for Current Events
 
-CurrentFacts is a Python-based backend system that checks the credibility of real-world claims using multiple agents. It parses natural language queries, searches news sources, and evaluates the factual accuracy using LLMs and APIs. Think of it as a lightweight fact-checking engine with plug-and-play agent logic.
+CurrentFacts is a backend system that checks the credibility of real-world claims using multiple agents. It parses natural language queries, searches news sources, and evaluates the factual accuracy using LLMs and APIs. Think of it as a lightweight fact-checking engine with plug-and-play agent logic.
 
 ---
 
